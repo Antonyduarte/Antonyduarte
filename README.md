@@ -1,50 +1,56 @@
-<h1 align="center">E aí, beleza? 👋</h1>
-
-###
-
 <div align="center">
-  <img title="javascript"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"  />
-  <img/>
-  <img title="nodejs"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img/>
-  <img title="html5"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img/>
-  <img title="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img/>
-  <img />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" width="40" />
-  <img />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-</div>
+  <h1>Olá, eu sou o Antony 👋</h1>
+  <p><strong>Desenvolvedor Back-end em formação | Focado em sistemas escaláveis e impacto real</strong></p>
 
-###
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/antonyduarte" target="_blank"> <img
-            src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-            height="25" alt="linkedin logo"/> </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato.antonyduarte@gmail.com&su=Contato&body=Olá%20Antony,%20quero%20falar%20com%20você!"
-        target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-            alt="Gmail" height="25"/>
+  <div>
+    <a href="https://www.linkedin.com/in/antonyduarte" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://instagram.com/anton.yxzz"><img
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            height="25 alt=" instagramlogo"></img></a>
+    <a href="mailto:contato.antonyduarte@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://instagram.com/anton.yxzz" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+  </div>
 </div>
 
-<h1 align="center" style="font-size: xx-large;">
-Olá 👋, Meu nome é Antony 
-</h1>
-<h3 align="center">Desenvolvedor Back-end em formação | Focado em crescimento e impacto real</h3>
 <br>
-<ul style="list-style-type: square;">
-  <li> Atualmente ainda não atuando na área.</li>
-  <li> Focado em me tornar um Desenvolvedor Back-end, porém com um conhecimento sólido de Front-end.</li>
-  <li> Aprendendo e praticando JavaScript, Node.js, SQL e desenvolvimento de APIs.</li>
-  <li> Tenho como objetivo trabalhar com Java no back-end.</li>
-  <li> Base sólida de front-end.</li>
-  <li> Sempre aprendendo e evoluindo um pouco mais a cada dia.</li>
-  <li> Aberto para conexões, aprendizados e construção de projetos legais.</li>
-</ul>
+
+## - Sobre Mim
+
+Sou um entusiasta de tecnologia em transição para o mercado de desenvolvimento, com o olhar voltado para o **Back-end**. Acredito que a base de um bom sistema está na eficiência dos dados e na qualidade do código no servidor.
+
+-  **Objetivo Atual:** Me especializar no ecossistema **Java** para construção de aplicações robustas.
+-  **Experiência:** Tenho uma base sólida em Front-end, o que me permite colaborar melhor em times multidisciplinares e entender o fluxo completo da aplicação.
+-  **Aprendizado:** Atualmente aprofundando em **Node.js, SQL e Arquitetura de APIs**.
+-  **Evolução:** Defensor do aprendizado contínuo (*Lifelong Learning*).
+
+---
+
+## 🛠 Habilidades Técnicas
+
+### 🖥️ Back-end & Banco de Dados (Foco Principal)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,py,mysql" alt="Back-end Skills" />
+  </div>
+
+### 🎨 Front-end & Ferramentas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,git,github,vscode" alt="Tools & Front Skills" />
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=visual_studio_dark"/>
+</div>
+
+---
+
+<div align="center">
+  <p><i>"A única maneira de fazer um excelente trabalho é amar o que você faz."</i></p>
+</div>
