@@ -46,10 +46,10 @@ Sou um entusiasta de tecnologia em transição para o mercado de desenvolvimento
 
 <div align="center">
   <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=Antonyduarte&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false"
+    src="https://github-readme-stats.vercel.app/api?username=Antonyduarte&show_icons=true&theme=github_dark"
   />
 </div>
+
 
 
 ---
