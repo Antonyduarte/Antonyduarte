@@ -52,7 +52,6 @@ Sou um entusiasta de tecnologia em transição para o mercado de desenvolvimento
   <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonyduarte&layout=compact&theme=tokyonight&hide_border=true"/>
       
-      <img src="https://github-readme-stats.vercel.app/api?username=Antonyduarte&show_icons=true&theme=tokyonight&hide_border=true"/>
   </div>
 </details>
 
