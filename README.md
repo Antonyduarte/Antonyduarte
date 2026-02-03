@@ -40,11 +40,11 @@ Olá 👋, Meu nome é Antony
 <h3 align="center">Desenvolvedor Back-end em formação | Focado em crescimento e impacto real</h3>
 <br>
 <ul style="list-style-type: square;">
-  <li>👨‍🏭 Atualmente ainda não atuando na área.</li>
-  <li>🎯 Focado em me tornar um Desenvolvedor Back-end, porém com um conhecimento sólido de Front-end.</li>
-  <li>📚 Aprendendo e praticando JavaScript, Node.js, SQL e desenvolvimento de APIs.</li>
-  <li>☕ Tenho como objetivo trabalhar com Java no back-end.</li>
-  <li>🌐 Base sólida de front-end.</li>
-  <li>🔁 Sempre aprendendo e evoluindo um pouco mais a cada dia.</li>
-  <li>🤝 Aberto para conexões, aprendizados e construção de projetos legais.</li>
+  <li>- Atualmente ainda não atuando na área.</li>
+  <li>- Focado em me tornar um Desenvolvedor Back-end, porém com um conhecimento sólido de Front-end.</li>
+  <li>- Aprendendo e praticando JavaScript, Node.js, SQL e desenvolvimento de APIs.</li>
+  <li>- Tenho como objetivo trabalhar com Java no back-end.</li>
+  <li>- Base sólida de front-end.</li>
+  <li>- Sempre aprendendo e evoluindo um pouco mais a cada dia.</li>
+  <li>- Aberto para conexões, aprendizados e construção de projetos legais.</li>
 </ul>
