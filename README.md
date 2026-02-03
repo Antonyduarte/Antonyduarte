@@ -46,7 +46,6 @@ Sou um entusiasta de tecnologia em transição para o mercado de desenvolvimento
   <summary><h3>📊 Estatísticas e Atividade | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=Antonyduarte&label=Visualizações&color=12&icon=5&pretty=true" /></summary>
   <img alt="Antony Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Antonyduarte&bg_color=0D1117&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Gráfico%20de%20Contribuições" />
   <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonyduarte&layout=compact&theme=tokyonight&hide_border=true"/>
   </div>
 </details>
 
