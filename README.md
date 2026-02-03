@@ -45,7 +45,7 @@ Sou um entusiasta de tecnologia em transição para o mercado de desenvolvimento
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+  <img src= https://github-readme-stats.vercel.app/api?username=Antonyduarte&show_icons=true/>
 </div>
 
 
