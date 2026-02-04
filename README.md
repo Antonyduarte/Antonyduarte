@@ -17,7 +17,7 @@
 
 <br>
 
-## - Sobre Mim
+## <ul><li> Sobre Mim </li></ul>
 
 Sou um entusiasta de tecnologia em transição para o mercado de desenvolvimento, com o olhar voltado para o **Back-end**. Acredito que a base de um bom sistema está na eficiência dos dados e na qualidade do código no servidor.
 
