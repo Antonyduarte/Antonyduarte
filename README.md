@@ -32,12 +32,12 @@ Sou um entusiasta de tecnologia em transição para o mercado de desenvolvimento
 
 ### 🖥️ Back-end & Banco de Dados (Foco Principal)
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,py,mysql" alt="Back-end Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,py,mysql,git,vscode" alt="Back-end Skills" />
   </div>
 
 ### 🎨 Front-end & Ferramentas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,git,github,vscode" alt="Tools & Front Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="Tools & Front Skills" />
 </div>
 
 ---
